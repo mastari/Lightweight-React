@@ -1,2 +1,2 @@
 # Lightweight-React
-This is simply a react project template including a minimal amount of libraries and just web-pack with babel .
+Avoid the BS of setting up webpack and babel. Get to coding already! Active port is 6789, feel free change configuration to your liking.
